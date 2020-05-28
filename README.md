@@ -1,5 +1,5 @@
 # Tensorflow_Basics
-Practice of Tensorflow and other implementation for conceptual understanding. The notebook captures following activities:
+Practicing implementations with Numpy, Tensorflow, Keras and Estimators for conceptual understanding and practice. The notebook captures following activities:
 - A simple NN implementation using Numpy to derive a functional relationship
 - TF basics
 - Multiple Linear Regression implementation using Sklearn and TF
